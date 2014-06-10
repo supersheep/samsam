@@ -1,0 +1,25 @@
+{
+  "name": "samsam",
+  "version": "0.1.0",
+  "description": "Value identification and comparison functions",
+  "main": "./lib/samsam.js",
+  "repository": "git://github.com/supersheep/samsam.git",
+  "keywords": [
+    "identification"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "supersheep",
+    "email": "supersheepxjy@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/supersheep/samsam/issues"
+  },
+  "homepage": "http://github.com/supersheep/samsam",
+  "engines": {
+    "neuron": "*"
+  },
+  "devDependencies": {
+    "assert": "~1.0.1"
+  }
+}
